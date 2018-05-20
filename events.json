@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Event 1",
+        "start": "2018-05-18T01:30:20",
+        "orderId": 1,
+        "color": "#257e4a",
+        "type": "event"
+    },
+    {
+        "title": "Event 2",
+        "start": "2018-05-19T01:30:20",
+        "orderId": 1,
+        "color": "#257e4a",
+        "type": "event"
+    },
+    {
+        "title": "Event 3",
+        "start": "2018-05-20T01:30:20",
+        "orderId": 1,
+        "color": "#257e4a",
+        "type": "event"
+    }
+]
